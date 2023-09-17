@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\procces\procces\bin\Debug\net6.0\procces.exe
+C:\Users\Nitro 5\source\repos\procces\procces\bin\Debug\net6.0\procces.deps.json
+C:\Users\Nitro 5\source\repos\procces\procces\bin\Debug\net6.0\procces.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\procces\procces\bin\Debug\net6.0\procces.dll
+C:\Users\Nitro 5\source\repos\procces\procces\bin\Debug\net6.0\procces.pdb
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.dll
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\refint\procces.dll
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.pdb
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\procces.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\procces\procces\obj\Debug\net6.0\ref\procces.dll
